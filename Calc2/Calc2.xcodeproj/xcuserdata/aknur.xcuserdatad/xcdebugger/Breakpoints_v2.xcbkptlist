@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9ACC1579-FCA5-4575-8844-A660513428BC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF0DAE15-E11F-424C-8092-8FFFC5B5F4E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calc2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AF0DAE15-E11F-424C-8092-8FFFC5B5F4E3 - 51b607d33ef20d87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calc2.ViewController.Result.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Calc2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aknur/Documents/Calc2/Calc2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "AF0DAE15-E11F-424C-8092-8FFFC5B5F4E3 - 5b10f1750e2745ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calc2.ViewController.Result.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Calc2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aknur/Documents/Calc2/Calc2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "AF0DAE15-E11F-424C-8092-8FFFC5B5F4E3 - e6e3533fd17f439d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calc2.ViewController.Result.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Calc2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aknur/Documents/Calc2/Calc2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "AF0DAE15-E11F-424C-8092-8FFFC5B5F4E3 - b8d4fd784e9df89e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calc2.ViewController.Result.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Calc2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aknur/Documents/Calc2/Calc2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "AF0DAE15-E11F-424C-8092-8FFFC5B5F4E3 - 3d02ee95f8b860f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calc2.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Calc2.ViewController"
+                  moduleName = "Calc2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aknur/Documents/Calc2/Calc2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "AF0DAE15-E11F-424C-8092-8FFFC5B5F4E3 - c45da731b8cc0045"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calc2.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Calc2.ViewController&gt;"
+                  moduleName = "Calc2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aknur/Documents/Calc2/Calc2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
